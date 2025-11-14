@@ -417,5 +417,17 @@
       "timestamp": 1762397202311
     }
   ],
-  "exportDate": "2025-11-14T02:57:40.628Z"
+  "settings": {
+    "username1": "SHN",
+    "height1": "168",
+    "target1": "60",
+    "birthday1": "2026-08-31",
+    "username2": "YYS",
+    "height2": "165",
+    "target2": "55",
+    "birthday2": "2026-04-12",
+    "uploadLink": "https://github.com/sikn719/JSON/upload/main",
+    "jsonLink": "https://github.com/sikn719/JSON"
+  },
+  "exportDate": "2025-11-14T03:53:43.062Z"
 }
